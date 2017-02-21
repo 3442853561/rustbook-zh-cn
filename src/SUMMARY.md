@@ -1,9 +1,9 @@
-# The Rust Programming Language
+# Rust 程序设计语言(中文版)
 
-## Getting started
+## 入门
 
-- [Introduction](ch01-00-introduction.md)
-    - [Installation](ch01-01-installation.md)
+- [绪论](ch01-00-introduction.md)
+    - [安装](ch01-01-installation.md)
     - [Hello, World!](ch01-02-hello-world.md)
 
 - [Guessing Game Tutorial](ch02-00-guessing-game-tutorial.md)
