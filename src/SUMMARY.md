@@ -28,7 +28,7 @@
     - [The `match` Control Flow Operator](ch06-02-match.md)
     - [Concise Control Flow with `if let`](ch06-03-if-let.md)
 
-## Basic Rust Literacy
+## Rust 基础知识
 
 - [Modules](ch07-00-modules.md)
     - [`mod` and the Filesystem](ch07-01-mod-and-the-filesystem.md)
@@ -63,7 +63,7 @@
     - [Working with Environment Variables](ch12-05-working-with-environment-variables.md)
     - [Writing to `stderr` instead of `stdout`](ch12-06-writing-to-stderr-instead-of-stdout.md)
 
-## Thinking in Rust
+## Rust 编程思想
 
 - [Functional Language Features in Rust](ch13-00-functional-features.md)
     - [Closures](ch13-01-closures.md)
@@ -84,7 +84,7 @@
 
 - [Is Rust OOP?](ch17-00-oop.md)
 
-## Advanced Topics
+## 高级主题
 
 - [Patterns](ch18-00-patterns.md) (perhaps an appendix?)
 
